@@ -569,8 +569,8 @@
     (path "/15844d9f-b5d7-4a9f-82c1-f2685db1c1bf"
       (reference "BT1") (unit 1) (value "Battery_Cell") (footprint "Battery:BatteryHolder_Eagle_12BH611-GR")
     )
-    (path "/4ff729be-4b31-48a8-bc7f-48107455e19c/c3178ef7-3383-481e-a88f-a80da721bff7"
-      (reference "C1") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
+    (path "/4ff729be-4b31-48a8-bc7f-48107455e19c/8b716c9d-9564-44b9-a12e-96c5784b810c"
+      (reference "C1") (unit 1) (value "100pF") (footprint "Capacitor_SMD:C_0603_1608Metric")
     )
     (path "/4ff729be-4b31-48a8-bc7f-48107455e19c/4d9c724e-fae6-493d-b5db-8a6f1fa88737"
       (reference "C2") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
@@ -618,13 +618,13 @@
       (reference "C16") (unit 1) (value "10uF") (footprint "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm")
     )
     (path "/4ff729be-4b31-48a8-bc7f-48107455e19c/fb934464-25b0-4091-8450-568b85417369"
-      (reference "D1") (unit 1) (value "SA9.0CA") (footprint "Diode_THT:D_5KP_P7.62mm_Vertical_KathodeUp")
+      (reference "D1") (unit 1) (value "SMBJ9.0CA-TP") (footprint "Diode_SMD:D_SMB_Handsoldering")
     )
-    (path "/f5964077-64d5-4761-b120-68141b6fcd83/a71ff2eb-8db4-4a4c-9a65-4fe75d30bb53"
-      (reference "D2") (unit 1) (value "SA5.0A") (footprint "Diode_THT:D_5KP_P7.62mm_Vertical_KathodeUp")
+    (path "/f5964077-64d5-4761-b120-68141b6fcd83/a447dabd-01b1-4c69-8ae4-6735a1e3f6fa"
+      (reference "D2") (unit 1) (value "SMBJ5.0A-TP") (footprint "Diode_SMD:D_SMB_Handsoldering")
     )
-    (path "/f5964077-64d5-4761-b120-68141b6fcd83/aafb7424-e5d4-4b3a-9141-ae580d99f6fc"
-      (reference "D3") (unit 1) (value "SA5.0A") (footprint "Diode_THT:D_5KP_P7.62mm_Vertical_KathodeUp")
+    (path "/f5964077-64d5-4761-b120-68141b6fcd83/6ad160cc-0efd-4616-b61a-1917010f96a3"
+      (reference "D3") (unit 1) (value "SMBJ5.0A-TP") (footprint "Diode_SMD:D_SMB_Handsoldering")
     )
     (path "/eb155ead-a6f5-4c80-962c-7d1d37f4c3f2"
       (reference "J1") (unit 1) (value "AudioJack3") (footprint "Connector_Audio:Jack_3.5mm_CUI_SJ1-3533NG_Horizontal")
